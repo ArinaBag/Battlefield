@@ -21,4 +21,6 @@
 ![Фоновое изображение](./Photo1/photo_4.jpg)
 ![Фоновое изображение](./Photo1/photo_5.jpg)
 
-
+| Папки в Workspace | Папки в ServerStorage | Папки в StarterPack|
+|----------|--------|--------|
+| ![](./Explorer/photo_1.jpg) | ![](./Explorer/photo_2.jpg) | ![](./Explorer/photo_3.jpg) 
